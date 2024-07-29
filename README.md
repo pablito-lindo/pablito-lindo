@@ -2,7 +2,7 @@
 
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Pablito Escobar
+Meu nome é **Pablito Escobar**
 
 Estou estudando na Alura
 
